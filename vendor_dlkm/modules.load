@@ -135,7 +135,6 @@ spmtwam.ko
 goodix_core.ko
 xiaomi_touch.ko
 gf_spi_tee.ko
-v4l2-async.ko
 mtk-composite.ko
 zircon_lm3644.ko
 wl2866d1.ko
